@@ -1,0 +1,6 @@
+venv
+BAAI_bge-base-en-v1.5
+LICENSE
+README.md
+data
+.gitignore
